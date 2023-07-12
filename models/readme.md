@@ -35,7 +35,7 @@ The models that i have created are based on the approach for making a Deep Learn
      MobileNet is a lightweight convolutional neural network architecture designed for mobile and embedded vision applications.
      It defines a sequential model and sequential layers are added to construct the MobileNet architecture
      
-     The desired input image size is (64x64x3)  MobileNet model is initialized as the base model. 
+     The desired input image size is (224x224x3)  MobileNet model is initialized as the base model. 
      This include_top=False argument to ensure that the top classification layer of the MobileNet model is excluded.
      
      After the convolutional layers, output is flattened and fully connected layers with dropout for regularization are added  
