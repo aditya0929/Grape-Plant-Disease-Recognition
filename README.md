@@ -38,6 +38,6 @@ I will evaluate their performance using appropriate metrics. Additionally, I wil
 
 | `Model`  | `Accuracy` |
 |--------|----------|
-| VGG19  |   88%    |
+| VGG16  |   88%    |
 | MobileNet | 97% |
 | ResNet50V2 | 93% |
