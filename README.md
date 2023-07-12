@@ -36,7 +36,11 @@ I will evaluate their performance using appropriate metrics. Additionally, I wil
 
 **Accuracy Comparison**
 
-
+| `Model`  | `Accuracy` |
+|--------|----------|
+| VGG16  |   88%    |
+| MobileNet | 97% |
+| ResNet50V2 | 93% |
 
 Since the models' decent levels of accuracy(88% and above) means that most of their pictures will be almost havinG similar predicted labels with a small room for mistake, the anticipated labels for the sign image labels are as are visualised as follows.
 
