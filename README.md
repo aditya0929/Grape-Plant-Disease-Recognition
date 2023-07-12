@@ -34,3 +34,10 @@ I will preprocess the dataset by resizing the images and splitting it into train
 
 I will evaluate their performance using appropriate metrics. Additionally, I will visualize the segmentation results to gain insights into how well the models can accurately identify and classify different regions within the vegetable images.
 
+**Accuracy Comparison**
+
+| `Model`  | `Accuracy` |
+|--------|----------|
+| VGG19  |   88%    |
+| MobileNet | 97% |
+| ResNet50V2 | 93% |
