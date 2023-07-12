@@ -41,3 +41,16 @@ I will evaluate their performance using appropriate metrics. Additionally, I wil
 | VGG16  |   88%    |
 | MobileNet | 97% |
 | ResNet50V2 | 93% |
+
+Since the models' decent levels of accuracy(88% and above) means that most of their pictures will be almost havinG similar predicted labels with a small room for mistake, the anticipated labels for the sign image labels are as are visualised as follows.
+
+![image](https://github.com/aditya0929/Grape-Plant-Disease-Recognition/assets/127277877/8c41d198-44bf-4d36-87ac-b7a9f3e98820)
+![image](https://github.com/aditya0929/Grape-Plant-Disease-Recognition/assets/127277877/4eddf30d-1db1-4f8a-b4f9-291ea46124c0)
+
+## after evaluation, `MobileNet`  model looks to be the best fit model in this case of American Sign Language Classification .
+
+
+**Future Scope**
+
+This project will contribute to advancing the understanding and application of deep learning in the field of computer vision and could potentially find applications in sorting of sign languages in different classes.
+
