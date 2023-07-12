@@ -24,7 +24,7 @@ By utilizing **transfer learning** with the MobileNet model, we can leverage pre
 
 **VGG16**
 
-**Lastly,** I will utilize the **VGG16** (Visual Geometry Group) architecture, which have deeper and complex structures. These models are renowned for their exceptional performance on various image recognition tasks. By leveraging the pre-trained weights of VGG, I can benefit from the learned features and fine-tune the network for image segmentation on the Lemon Quality Dataset.
+**Lastly,** I will utilize the **VGG16** (Visual Geometry Group) architecture, which have deeper and complex structures. These models are renowned for their exceptional performance on various image recognition tasks. By leveraging the pre-trained weights of VGG, I can benefit from the learned features and fine-tune the network for image segmentation on the Grape Plant Disaease Recognition.
 
 **Throughout the project,** 
 
@@ -52,5 +52,6 @@ Since the models' decent levels of accuracy(88% and above) means that most of th
 
 **Future Scope**
 
-This project will contribute to advancing the understanding and application of deep learning in the field of computer vision and could potentially find applications in sorting of sign languages in different classes.
+This project will contribute to advancing the understanding and application of deep learning in the field of computer vision and could potentially find applications in sorting of Grape Plant Disease Recognition
+ in different classes.
 
