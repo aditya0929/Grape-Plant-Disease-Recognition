@@ -81,10 +81,10 @@ The models that i have created are based on the approach for making a Deep Learn
   **7.Training and Validation Metrics Visualization**
  
  
-    plotting graphs showing training loss,
-    validation loss,
+    plotting graphs showing 
+    training loss,
     training accuracy,
-    validation accuracy,
+    
    
     
 **8.  Model prediction and evaluation**
