@@ -6,7 +6,7 @@ GitHub Profile Link : https://github.com/aditya0929
 Email ID : adityajha8906@gmail.com
 
 demo video link - 
-https://drive.google.com/file/d/1-bEDVcv1L92cShssGod9hdRT-ue-2Y1V/view?usp=sharing
+https://youtu.be/4dDqjEVUiKM
 
 Approach for this Project :
 
